@@ -75,3 +75,7 @@ print(str2[0])
 # str2[0] = "k"
 print("str:", str)
 print(str2)
+
+
+kospi_top10.append('SK텔레콤')
+print(kospi_top10)
